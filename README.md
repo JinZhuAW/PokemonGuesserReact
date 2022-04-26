@@ -11,4 +11,5 @@ Pokemon Guesser Game React Version
 5. access http://localhost:3000/ in your browser to play the game.
 
 # Demo
-![ezgif-4-0bffe82486](https://user-images.githubusercontent.com/101837585/165283873-08eea036-9bfe-4277-8e76-5fd3c72e7b33.gif)
+
+![ezgif-4-f3f6719728](https://user-images.githubusercontent.com/101837585/165284173-7c0ddba0-485b-403f-9eea-20ae3d89bc4b.gif)
