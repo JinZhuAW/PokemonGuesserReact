@@ -8,7 +8,7 @@ Pokemon Guesser Game React Version
    start the local server: "npm start"
 3. Replace index.js and index.css
 4. Add MyComponent.js file into the directiory
-5. access http://localhost:3000/ in your browser to play the game.
+5. Access http://localhost:3000/ in your browser to play the game.
 
 # Demo
 
