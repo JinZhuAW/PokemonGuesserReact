@@ -2,7 +2,7 @@
 Pokemon Guesser Game React Version
 
 # Requirement
-1. Install React
+1. Install REACT
 2. Create React project in the terminal: "npx create-react-app my-app"
    go to project directiory: "cd my-app"
    start the local server: "npm start"
