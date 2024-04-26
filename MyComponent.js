@@ -80,7 +80,7 @@ class MyComponent extends React.Component {
               console.log(pokenmonName)
               let text;
                 if(isWrong) {
-                    text = <p color='red'>Wrong Answer. Please try again!</p>
+                    text = <p color='red'>Sorry wrong Answer. Please try again!</p>
                 }
                 return (
                 <div>
