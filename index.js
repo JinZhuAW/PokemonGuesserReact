@@ -5,7 +5,7 @@ import MyComponent from './MyComponent';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const rand = Math.floor(Math.random() * 151)
+const rand = Math.floor(Math.random() * 152)
 root.render(
   <React.StrictMode>
     <h1>Welcome To Pokemon Gusser Game</h1>
